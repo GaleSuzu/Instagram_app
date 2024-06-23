@@ -7,7 +7,7 @@ const UnderConstruction = () => {
         <h1>Coming Soon</h1>
         <h3>You will be able to add more videos and photo...</h3>
         <img
-          src="../../src/assets/undraw_under_construction_-46-pa.svg"
+          src="../../../public/assets/undraw_under_construction_-46-pa.svg"
           alt="under construction"
         />
       </div>
