@@ -4,7 +4,7 @@ const Logo = () => {
   return (
     <div>
       <img
-        src="../../../public/assets/instagram-svgrepo-com.svg"
+        src="/assets/instagram-svgrepo-com.svg"
         alt="logo"
         className={styles.logo}
       />

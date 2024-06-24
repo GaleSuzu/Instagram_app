@@ -11,7 +11,7 @@ const DetailPage = () => {
     <div className={styles.mainWrapper}>
       <NavLink to={`/profile/${profile}`}>
         <img
-          src="../../../public/assets/back-svgrepo-com.svg"
+          src="/assets/back-svgrepo-com.svg"
           alt="back"
           className={styles.backArrow}
         />
