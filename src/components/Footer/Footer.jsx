@@ -10,7 +10,7 @@ const Footer = () => {
         className={({ isActive }) => (isActive ? styles.active : "")}
       >
         <img
-          src="../../../public/assets/home-11-svgrepo-com.svg"
+          src="assets/home-11-svgrepo-com.svg"
           alt="Home"
           className={styles.homeBtn}
         />
@@ -20,7 +20,7 @@ const Footer = () => {
         className={({ isActive }) => (isActive ? styles.active : "")}
       >
         <img
-          src="/public/assets/add-ellipse-svgrepo-com.svg"
+          src="./public/assets/add-ellipse-svgrepo-com.svg"
           alt="Add Photo"
           className={styles.addPhotoBtn}
         />
@@ -30,7 +30,7 @@ const Footer = () => {
         className={({ isActive }) => (isActive ? styles.active : "")}
       >
         <img
-          src="public/assets/profile-circle-svgrepo-com.svg"
+          src="/assets/profile-circle-svgrepo-com.svg"
           alt="Home"
           className={styles.profileBtn}
         />
